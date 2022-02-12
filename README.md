@@ -1,4 +1,4 @@
-# gerenciador_de_contas
+# Gerenciador de contas
 
 ![Imagem Aplicativo 1](/assets/imagem1.jpeg)
 ![Imagem Aplicativo 2](/assets/imagem4.jpeg)
