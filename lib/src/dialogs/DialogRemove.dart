@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:gerenciar_conta/src/class/Product.dart';
+import 'package:gerenciador_de_contas/src/class/Product.dart';
 
 class DialogRemove extends StatelessWidget {
   final int idBill;

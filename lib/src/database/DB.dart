@@ -1,5 +1,5 @@
-import 'package:gerenciar_conta/src/class/Bill.dart';
-import 'package:gerenciar_conta/src/class/Product.dart';
+import 'package:gerenciador_de_contas/src/class/Bill.dart';
+import 'package:gerenciador_de_contas/src/class/Product.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'package:intl/intl.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gerenciar_conta/src/dialogs/DialogAddBill.dart';
-import 'package:gerenciar_conta/src/class/Bill.dart';
-import 'package:gerenciar_conta/src/CardTile.dart';
-import 'package:gerenciar_conta/src/database/DB.dart';
+import 'package:gerenciador_de_contas/src/CardTile.dart';
+import 'package:gerenciador_de_contas/src/class/Bill.dart';
+import 'package:gerenciador_de_contas/src/database/DB.dart';
+import 'package:gerenciador_de_contas/src/dialogs/DialogAddBill.dart';
 
 class Home extends StatefulWidget {
   @override

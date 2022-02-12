@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:gerenciar_conta/src/database/DB.dart';
-import 'package:gerenciar_conta/src/dialogs/DialogRemove.dart';
-import 'package:gerenciar_conta/src/class/Bill.dart';
-import 'package:gerenciar_conta/src/dialogs/DialogAddProduct.dart';
-import 'package:gerenciar_conta/src/dialogs/DialogDefaultConfirmacao.dart';
-import 'package:gerenciar_conta/src/class/Product.dart';
+import 'package:gerenciador_de_contas/src/class/Bill.dart';
+import 'package:gerenciador_de_contas/src/class/Product.dart';
+import 'package:gerenciador_de_contas/src/database/DB.dart';
+import 'package:gerenciador_de_contas/src/dialogs/DialogAddProduct.dart';
+import 'package:gerenciador_de_contas/src/dialogs/DialogDefaultConfirmacao.dart';
+import 'package:gerenciador_de_contas/src/dialogs/DialogRemove.dart';
 import 'package:intl/intl.dart';
 
 import 'dialogs/DialogAddBill.dart';

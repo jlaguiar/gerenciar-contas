@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:gerenciar_conta/src/database/DB.dart';
-import 'package:gerenciar_conta/src/class/Product.dart';
-import 'package:basic_utils/basic_utils.dart';
 import 'package:brasil_fields/brasil_fields.dart';
+import 'package:gerenciador_de_contas/src/class/Product.dart';
+import 'package:gerenciador_de_contas/src/database/DB.dart';
 
 class DialogAddProduct extends StatefulWidget {
   final void Function() getProducts;
