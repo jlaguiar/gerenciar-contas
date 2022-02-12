@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gerenciar_conta/src/database/DB.dart';
-import 'package:gerenciar_conta/src/class/Bill.dart';
+import 'package:gerenciador_de_contas/src/class/Bill.dart';
+import 'package:gerenciador_de_contas/src/database/DB.dart';
 
 class DialogAddBill extends StatefulWidget {
   final void Function() getBills;
